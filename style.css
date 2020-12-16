@@ -1,0 +1,12 @@
+body {
+    width: 80%;
+    border: 5px solid black;
+    border-radius: 40px;
+    background-image: url(http://www.pattern4site.ru/images/crystal/_rebig/2-fon-svetlyy-kristaly.png);
+    margin: 0 auto;
+    
+}
+
+h1 {
+    text-align: center;
+}
